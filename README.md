@@ -64,7 +64,7 @@ The dashboard provides insights into:
 
 ### Filtered View Example
 
-![Filtered Dashboard](dashboard_filtered.png)
+![Filtered Dashboard](dashboard_filtered..png)
 
 ---
 
