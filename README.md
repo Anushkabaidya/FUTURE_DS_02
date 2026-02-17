@@ -1,4 +1,4 @@
-# Customer Churn & Retention Analysis – Task 02
+# Customer Retention & Churn Analysis – Task 02
 
 ## Project Overview
 
